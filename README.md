@@ -1,2 +1,0 @@
-# BraMurgas.github.io
-Blog
