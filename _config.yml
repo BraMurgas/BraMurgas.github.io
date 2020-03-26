@@ -23,9 +23,7 @@ email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   I have been trying to write a website to share science, cultural and sport
   anecdotes for 3 years and here I am. Welcome to my blog!
-  Except where otherwise noted content of this blog is licensed under a 
-  Creative Commons Attribution 4.0 International License. This blog is 
-  powered by jekyll using the minima theme.
+  This blog is powered by jekyll using the minima theme.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: bray_mur
