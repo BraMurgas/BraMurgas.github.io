@@ -4,15 +4,6 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I'm a PhD student in materials science at [Cemef](https://www.cemef.mines-paristech.fr/en/homepage/) (Nice, France) in the MSR(Metallurgy, Structure and Reology)/MSM(Multiscale Modelling) group with the founding of an [ANR](https://anr.fr/fr/) industrial chair [Digimu](https://chaire-digimu.cemef.mines-paristech.fr/). My PhD project is the "Analysis and modelling of grain boundary mobility". My researh aims to describe the parameters affecting grain boundary mobility, answer purely metallurgical questions and implement it in a Finite Element Method code. Everything based on comparisons with experimental data.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Beside materials science I'm interested in  astronomy, open software, open science, reproducible science, image processing, video creation, scientific visualization, photography and illustration.

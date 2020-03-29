@@ -19,11 +19,11 @@
 # in the templates via {{ site.myvariable }}.
 
 title: BRAYAN MURGAS
-email: your-email@example.com
+# email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  I have been trying to write a website to share science, cultural and sport
-  anecdotes for 3 years and here I am. Welcome to my blog!
-  This blog is powered by jekyll using the minima theme.
+  Science, cultural and sport anecdotes. Welcome to my blog!
+  Materials science, open science, image treatments, illustration and more.
+  This blog is powered by jekyll using the minima default theme.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: bray_mur
@@ -53,3 +53,5 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+# bundle exec jekyll server
+# http://localhost:4000
