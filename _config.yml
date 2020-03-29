@@ -21,9 +21,9 @@
 title: BRAYAN MURGAS
 # email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Science, cultural and sport anecdotes. Welcome to my blog!
-  Materials science, open science, image treatments, illustration and more.
-  This blog is powered by jekyll using the minima default theme.
+  Science, cultural and sport anecdotes. Welcome
+  to my blog!  Materials science, open science, 
+  and more. Powered by jekyll.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: bray_mur
