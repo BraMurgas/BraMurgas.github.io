@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Art Work
+title: Art
 permalink: /ArtWork/
 ---
 
-In development...
+Under development...
