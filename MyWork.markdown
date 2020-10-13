@@ -16,9 +16,11 @@ One project under development in Python using Pandas and matplotlib to post-proc
 
 # Seminars and Conference Talks
 
-2020
+2021
 
-* Upcoming: Multiscale Materials Modeling, Baltimore, MD, U.S.A. October 19-23, 2020.
+* Upcoming: Eccomas Congress, Virtual Congress. January 11-15, 2021.
+
+* Upcoming: Multiscale Materials Modeling, Baltimore, MD, U.S.A. November 7-11, 2021.
 
 2019
 
@@ -30,8 +32,15 @@ I appear as the first author when I have done the main work prior to writing and
 
 ## Preprint
 
-* J. Fausty, B. Murgas, S. Florez, N. Bozzolo, M. Bernacki. A new level set-finite element formulation for anisotropic grain boundary migration. [ArXiv](arXiv:2006.15531).
+* J. Fausty, B. Murgas, S. Florez, N. Bozzolo, M. Bernacki. A new level set-finite element formulation for anisotropic grain boundary migration. [ArXiv](https://arxiv.org/abs/2006.15531).
 
-* Sebastian Florez, Julien Fausty, Karen Alvarado, Brayan Murgas, Marc Bernacki. A novel highly efficient Lagrangian model for massively multidomain simulations: parallel context. [ArXiv](arXiv:2009.04424).
+* Sebastian Florez, Julien Fausty, Karen Alvarado, Brayan Murgas, Marc Bernacki. A novel highly efficient Lagrangian model for massively multidomain simulations: parallel context. [ArXiv](https://arxiv.org/abs/2009.04424).
+
+## Journals
+
+
+## Co-authors
+
+S. Florez, M. Bernacki, K. Alvarado, N. Bozzolo, J. Fausty. B. Flipon.
 
 One article in progress...
