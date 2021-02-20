@@ -18,7 +18,7 @@ One project under development in Python using Pandas and matplotlib to post-proc
 
 2021
 
-* Upcoming: Eccomas Congress, Virtual Congress. January 11-15, 2021.
+* Eccomas Congress, Virtual Congress. January 11-15, 2021.
 
 * Upcoming: Multiscale Materials Modeling, Baltimore, MD, U.S.A. November 7-11, 2021.
 
@@ -32,15 +32,19 @@ I appear as the first author when I have done the main work prior to writing and
 
 ## Preprint
 
-* J. Fausty, B. Murgas, S. Florez, N. Bozzolo, M. Bernacki. A new level set-finite element formulation for anisotropic grain boundary migration. [ArXiv](https://arxiv.org/abs/2006.15531).
+* J. Fausty, B. Murgas, S. Florez, N. Bozzolo, M. Bernacki. A new level set-finite element formulation for anisotropic grain boundary migration. 2020. [ArXiv](https://arxiv.org/abs/2006.15531).
 
-* Sebastian Florez, Julien Fausty, Karen Alvarado, Brayan Murgas, Marc Bernacki. A novel highly efficient Lagrangian model for massively multidomain simulations: parallel context. [ArXiv](https://arxiv.org/abs/2009.04424).
+* Sebastian Florez, Julien Fausty, Karen Alvarado, Brayan Murgas, Marc Bernacki. A novel highly efficient Lagrangian model for massively multidomain simulations: parallel context. 2020. [ArXiv](https://arxiv.org/abs/2009.04424).
 
 ## Journals
 
+* J. Fausty, B. Murgas, S. Florez, N. Bozzolo, M. Bernacki. A new analytical test case for anisotropic grain growth problems. 2021. [Applied Mathematical Modelling](https://doi.org/10.1016/j.apm.2020.11.035).
+
+* B. Flipon, V. Grand, B. Murgas, A. Gaillac, A. Nicolaÿ, N. Bozzolo, M. Bernacki. Grain size characterization in metallic alloys using different microscopy and post-processing techniques. 2021. [Materials Characterization](https://doi.org/10.1016/j.matchar.2021.110977).
 
 ## Co-authors
 
 S. Florez, M. Bernacki, K. Alvarado, N. Bozzolo, J. Fausty. B. Flipon.
 
-One article in progress...
+One article in progress : Comparison of Finite Element - Level Set formulations to model 2D grain growth.
+
