@@ -14,13 +14,13 @@ Office: Mines ParisTech. Cemef - Centre de Mise en Forme des Matériaux. 1 Rue C
 
 # Professional history
 
-* 2018 - 2021 : PhD Student at [Mines ParisTech](http://www.mines-paristech.eu/).
+* 2018 - 2021 : PhD Student at [Mines ParisTech](http://www.mines-paristech.eu/). Digimu Consortium: Grain boundary mobility enhancement of a Full Field Finite Element-Leve Set formulation.
 
-* 2017 - 2018 : Internship at [LEM3](http://www.lem3.univ-lorraine.fr/), France.
+* 2017 - 2018 : Internship at [LEM3](http://www.lem3.univ-lorraine.fr/), France. Micromechanics and crystal plasticity: Formation of new REV for the simulation of composites and polycrystalline materials.
 
-* 2016 - 2017 : Member of the Industrial Informatics group at ZF Fonderie Lorraine
+* 2016 - 2017 : Member of the Industrial Informatics group at ZF Fonderie Lorraine. 
 
-* 2014 - 2016 : Member of [GIEMA](http://giema.uis.edu.co/) at [Universidad Industrial de Santander-UIS](https://www.uis.edu.co/webUIS/es/index.jsp), Colombia. 
+* 2014 - 2016 : Member of [GIEMA](http://giema.uis.edu.co/) at [Universidad Industrial de Santander-UIS](https://www.uis.edu.co/webUIS/es/index.jsp), Colombia. Numerical Heat transfer: Finite Difference methods.
 
 # Education
 
