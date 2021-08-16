@@ -8,7 +8,7 @@ permalink: /MyWork/
 
 ## Interest
 
-Grain boundary motion and deformation. Numerical methods: Finite difference, Finite elements, Fast Fourier Transform (FFT), Vertex. Crystal plasticity. Multiscale modelling. EBSD techniques. In-situ tests. Visualization.
+Computational Mechanics, Computational Metallurgy, Finite Element Method, Finite difference, Fast Fourier Transform (FFT), Vertex, Crystal Plasticity, Grain Boundary, Defects, Second Phase Particles, Grain boundary motion, Grain boundary characterization, Multiscale modeling, Image Analysis, TEM, EBSD, Optical Microscopy, In-situ tests, Thermomechanical tests, Grain Growth, Recrystallization, Atomistic Modeling of Materials, Anisotropy, Phase-Field Models, Composite Materials, Solid Mechanics, Computer Programming, Visualization, Open Science, Open Source Codes.
 
 # Software
 
@@ -42,7 +42,11 @@ One project under development in Python using Pandas and matplotlib to post-proc
 
 I appear as the first author when I have done the main work prior to writing and writing the article. As the co-author when I have helped with some data, analysis and writing sections of the article. 
 
-# Preprint
+# Preprint 
+
+* Sebastian Florez, Julien Fausty, Karen Alvarado, Brayan Murgas, and Marc Bernacki. A 2d fronttracking lagrangian model for the modeling of anisotropic grain growth. July 2021. [ArXiv](https://arxiv.org/abs/2106.04892v1).
+
+* Brayan Murgas, Sebastian Florez, Nathalie Bozzolo, Julien Fausty, and Marc Bernacki. Comparative study and limits of different level-set formulations for the modeling of anisotropic grain growth, June 2021. [ArXiv](https://arxiv.org/abs/2106.03565).
 
 * Sebastian Florez, Julien Fausty, Karen Alvarado, Brayan Murgas, Marc Bernacki. A novel highly efficient Lagrangian model for massively multidomain simulations: parallel context. 2020. [ArXiv](https://arxiv.org/abs/2009.04424).
 
@@ -50,13 +54,17 @@ I appear as the first author when I have done the main work prior to writing and
 
 # Journals
 
-* B. Flipon, V. Grand, B. Murgas, A. Gaillac, A. Nicolaÿ, N. Bozzolo, M. Bernacki. Grain size characterization in metallic alloys using different microscopy and post-processing techniques. 2021. [Materials Characterization](https://doi.org/10.1016/j.matchar.2021.110977).
+* Brayan Murgas, Sebastian Florez, Nathalie Bozzolo, Julien Fausty, and Marc Bernacki. Comparative study and limits of different level-set formulations for the modeling of anisotropic grain growth. July 2021. [Materials MDPI](https://www.mdpi.com/1996-1944/14/14/3883).
 
-* J. Fausty, B. Murgas, S. Florez, N. Bozzolo, M. Bernacki. A new analytical test case for anisotropic grain growth problems. 2021. [Applied Mathematical Modelling](https://doi.org/10.1016/j.apm.2020.11.035).
+* Sebastian Florez, Julien Fausty, Karen Alvarado, Brayan Murgas, and Marc Bernacki. Parallelization of an efficient 2d-lagrangian model for massive multi-domain simulations. July 2021. [Modeling and Simulation in Materials Science and Engineering](https://doi.org/10.1088/1361-651x/ac0ae7). 
+
+* Julien Fausty, Brayan Murgas, Sebastian Florez, Nathalie Bozzolo, Marc Bernacki. A new analytical test case for anisotropic grain growth problems. May 2021. [Applied Mathematical Modelling](https://doi.org/10.1016/j.apm.2020.11.035).
+
+* Baptiste Flipon, Victor Grand, Brayan Murgas, A. Gaillac, Alexis Nicolaÿ, Nathalie Bozzolo, Marc Bernacki. Grain size characterization in metallic alloys using different microscopy and post-processing techniques. April 2021. [Materials Characterization](https://doi.org/10.1016/j.matchar.2021.110977).
 
 # Co-authors
 
 S. Florez, M. Bernacki, K. Alvarado, N. Bozzolo, J. Fausty. B. Flipon.
 
-One article in progress : Comparison of Finite Element - Level Set formulations to model 2D grain growth.
+Two articles in progress : Study of grain growth of 316l stainless steel: Comparison of ebsd data and numerical data using a finite element level set formulations with anisotropic grain boundary energy and heterogeneous mobiliy. Statistical behaviour of interfaces subjected to curvature flow and torque effects applied to microstructural evolutions.
 

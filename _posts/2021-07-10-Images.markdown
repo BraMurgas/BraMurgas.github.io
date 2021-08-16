@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "How to license and publish a public image in a scientific journal?"
+date:   2021-03-01 14:00:00 +0100
+categories: ArtWork/
+image: /assets/Images/LImmersion.png
+---
+
+As you may know when one publishes a scientific article you have the option to publish your article as open access or under a subscription model. The second model means that you transfer the copyright to the publisher. Here is a part of the Journal Publishing Agreement from Elsevier, section Assignment of copyright: "I hereby assign to the Copyright Owner the copyright in the manuscript identified above (where Crown Copyright is asserted, authors agree to grant an exclusive publishing and distribution license) and any tables, illustrations or other material submitted for publication as part of the manuscript (the “Article”)."
+
+If you publish your article under the subscription model you "loose" the rights of tables, illustrations and other materials. Regarding the results... ok is "fair", that's their job to share and make the your results more visible to the scientific community, even if we have ArXiv and open access journals that are accessible to everybody, but many of us are attached to the impact factor and all that crap... But what if you loose the rights of your images. As a PhD student I have use the same image to explain the same concept and I spent a lot of time doing it and improving it to make it aesthetic and share a clear statement. But once the article is published is not anymore my image.  
+
+This idea was going round in my head and I looked for a solution to reuse my images (A temporal one, because the real one is to set free science). I just published my first article at [Materials MDPI](https://www.mdpi.com/1996-1944/14/14/3883) (an open access and free journal) and I wanted to reuse the image in other articles that I'm writing using the same methodology and the same base concepts. Luckily, at the same time the media center at Cemef gave a talk and this is what I learned:   
+
+You can publish an image under a creative commons (CC) license. 
+
+First you have to choose the type of license, in the [CC page](https://www.cemef.mines-paristech.fr/en/homepage/)
+
+Author: Brayan David Murgas Portilla. This article is in progress and is based on a presentation about the creative commons license at [Cemef](https://www.cemef.mines-paristech.fr/en/homepage/).
