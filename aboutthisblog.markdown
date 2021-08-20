@@ -44,7 +44,7 @@ I appreciate to read other peoples blogs. In one of them I found some interestin
 
 * Some interesting pages: [coolors](https://coolors.co/), [Nord](https://www.nordtheme.com/), [python3](https://diveintopython3.problemsolving.io/), [pandas](https://pandas.pydata.org/), [pandas tutorial](https://nbviewer.jupyter.org/github/jorisvandenbossche/pandas-tutorial/blob/master/Index.ipynb), [JupyterLab](https://jupyterlab.readthedocs.io/en/stable/).
 
-<!--[jekyll-organization]: https://github.com/jekyll-->
+[jekyll-organization]: https://github.com/jekyll
 
 <!--* Site map: -->
 
