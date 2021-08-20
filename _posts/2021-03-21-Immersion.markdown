@@ -2,7 +2,7 @@
 layout: post
 title:  "L'immersion"
 date:   2021-03-01 14:00:00 +0100
-categories: Art
+categories: ArtWork
 image: /assets/Images/LImmersion.png
 ---
 

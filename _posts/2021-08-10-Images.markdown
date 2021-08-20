@@ -2,7 +2,7 @@
 layout: post
 title:  "How to license and publish a public image in a scientific journal?"
 date:   2021-08-10 14:00:00 +0100
-categories: Research
+categories: MyWork
 image: /assets/Images/LImmersion.png
 ---
 
