@@ -16,7 +16,7 @@ One project under development in Python using Pandas and matplotlib to post-proc
 
 # Ongoing projects
 
-...
+* New project : C++ Free library to model annealing phenomena using FFT based methods (Recrystallization, recovery, crystal plasticity, GB motion, etc.)
 
 # Seminars and Conference Talks
 
@@ -66,5 +66,7 @@ I appear as the first author when I have done the main work prior to writing and
 
 S. Florez, M. Bernacki, K. Alvarado, N. Bozzolo, J. Fausty. B. Flipon.
 
-Two articles in progress : Study of grain growth of 316l stainless steel: Comparison of ebsd data and numerical data using a finite element level set formulations with anisotropic grain boundary energy and heterogeneous mobiliy. Statistical behaviour of interfaces subjected to curvature flow and torque effects applied to microstructural evolutions.
+Two articles in progress : 
+* Study of grain growth of 316l stainless steel: Comparison of ebsd data and numerical data using a finite element level set formulations with anisotropic grain boundary energy and heterogeneous mobiliy. 
+* Statistical behaviour of interfaces subjected to curvature flow and torque effects applied to microstructural evolutions.
 

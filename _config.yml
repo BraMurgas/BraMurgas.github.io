@@ -21,13 +21,16 @@
 title: BRAYAN MURGAS
 email: brayan.murgas@mines-paristech.fr
 description: >- # this means to ignore newlines until "baseurl:"
-  Science, cultural and sport anecdotes, Brayan
-  Murgas' blog!  Materials science, open science, 
+  Brayan Murgas' blog
+  Materials science, open science, 
   and more. Powered by jekyll.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: bray_mur
 github_username:  BraMurgas
+
+
+#nestedmap: <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=nwBatXSIdWgFZ0lL_ywYNShdjiR5rHCi2z7s1ZKGitU&cl=ffffff&w=a"></script>
 
 # Build settings
 theme: minima
