@@ -5,7 +5,7 @@
 layout: home
 ---
 
-* Analytics map:
+* Site map:
 
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=nwBatXSIdWgFZ0lL_ywYNShdjiR5rHCi2z7s1ZKGitU&cl=ffffff&w=a"></script>
 
