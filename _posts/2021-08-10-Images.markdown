@@ -10,10 +10,16 @@ As you may know when one publishes a scientific article you have the option to p
 
 If you publish your article under the subscription model you "loose" the rights of tables, illustrations and other materials. Regarding the results... ok is "fair", that's their job to share and make the your results more visible to the scientific community, even if we have ArXiv and open access journals that are accessible to everybody, but many of us are attached to the impact factor and all that crap... But what if you loose the rights of your images. As a PhD student I have use the same image to explain the same concept and I spent a lot of time doing it and improving it to make it aesthetic and share a clear statement. But once the article is published is not anymore my image.  
 
-This idea was going round in my head and I looked for a solution to reuse my images (A temporal one, because the real one is to set free science). I just published my first article at [Materials MDPI](https://www.mdpi.com/1996-1944/14/14/3883) (an open access and free journal) and I wanted to reuse the image in other articles that I'm writing using the same methodology and the same base concepts. Luckily, at the same time the media center at Cemef gave a talk and this is what I learned:   
+This idea was going round in my head and I looked for a solution to reuse my images (A temporal one, because the real one is to set free science). I just published my first article at [Materials MDPI](https://www.mdpi.com/1996-1944/14/14/3883) (an open access and free journal) and I wanted to reuse the image in other articles that I'm writing using the same methodology and the same base concepts. Luckily, at the same time the media center at Cemef gave a talk and this is what I learned. You can publish an image under a creative commons (CC) license. You have several combinations of the license and that may allow people to reuse and modify the image:
 
-You can publish an image under a creative commons (CC) license. 
+* Choose the type of license, in the [CC page](https://www.cemef.mines-paristech.fr/en/homepage/),
 
-First you have to choose the type of license, in the [CC page](https://www.cemef.mines-paristech.fr/en/homepage/)
+* Publish the image on a platform that allows you to define a license, I frequently use Flickr,
 
-Author: Brayan David Murgas Portilla. This article is in progress and is based on a presentation about the creative commons license at [Cemef](https://www.cemef.mines-paristech.fr/en/homepage/).
+* (optional) Create a Wikipedia profile, 
+
+* (optional) Link the Flickr image to Wikipedia and make it more accesible.
+
+I like the Wikipedia linking because Wikipedia is highly used and people can comment your image, in that way you can improve your image and communication skills. 
+
+Author: Brayan David Murgas Portilla. This article is in progress and is created thanks to a presentation about the creative commons license at [Cemef](https://www.cemef.mines-paristech.fr/en/homepage/).

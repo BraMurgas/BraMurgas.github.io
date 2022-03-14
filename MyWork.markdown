@@ -6,17 +6,17 @@ permalink: /MyWork/
 
 ![My cover](/assets/cover.png)
 
+## [Look my ORCID profile](https://orcid.org/0000-0002-6513-7505)
+
 ## Interest
 
-Computational Mechanics, Computational Metallurgy, Finite Element Method, Finite difference, Fast Fourier Transform (FFT), Vertex, Crystal Plasticity, Grain Boundary, Defects, Second Phase Particles, Grain boundary motion, Grain boundary characterization, Multiscale modeling, Image Analysis, TEM, EBSD, Optical Microscopy, In-situ tests, Thermomechanical tests, Grain Growth, Recrystallization, Atomistic Modeling of Materials, Anisotropy, Phase-Field Models, Composite Materials, Solid Mechanics, Computer Programming, Visualization, Open Science, Open Source Codes.
-
-# Software
-
-One project under development in Python using Pandas and matplotlib to post-process statistical data from crystalline microstructures.
+Computational Mechanics, Computational Metallurgy, Finite Element Method, Finite difference, Fast Fourier Transform (FFT), Vertex, Crystal Plasticity, Grain Boundary, Machine Learning, Defects, Second Phase Particles, Grain boundary motion, Grain boundary characterization, Multiscale modeling, Image Analysis, TEM, EBSD, Optical Microscopy, In-situ tests, Thermomechanical tests, Grain Growth, Recrystallization, Atomistic Modeling of Materials, Anisotropy, Phase-Field Models, Composite Materials, Solid Mechanics, Computer Programming, Visualization, Open Science, Open Source Codes.
 
 # Ongoing projects
 
-* New project : C++ Free library to model annealing phenomena using FFT based methods (Recrystallization, recovery, crystal plasticity, GB motion, etc.)
+* Cold Spray and Additive Manufacturing: Machine learning, crystal plasticity, crack propagation and fatigue considering the crystalline nature of materials.
+
+* Ongoing project : C++ Free library to model annealing phenomena using FFT based methods (Recrystallization, recovery, crystal plasticity, GB motion, etc.)
 
 # Seminars and Conference Talks
 
@@ -40,7 +40,7 @@ One project under development in Python using Pandas and matplotlib to post-proc
 
 ## Bibliography
 
-I appear as the first author when I have done the main work prior to writing and writing the article. As the co-author when I have helped with some data, analysis and writing sections of the article. 
+I appear as the first author when I have done the main work prior to writing and writing the article. As the co-author when I have helped with some data, analysis and writing sections of the article. If you have any question or want to discuss with me about any of the articles please send me an email.
 
 # Preprint 
 
@@ -54,6 +54,10 @@ I appear as the first author when I have done the main work prior to writing and
 
 # Journals
 
+* Sebastian Florez, Karen Alvarado, Brayan Murgas, Nathalie Bozzolo, Dominique Chatain, Carl E. Krill, Mingyan Wang, Gregory S. Rohrer and Marc Bernacki. Statistical behaviour of interfaces subjected to curvature flow and torque effects applied to microstructural evolutions. January 2022. [Acta Materialia](https://www.sciencedirect.com/science/article/pii/S1359645421008387).
+
+* Sebastian Florez, Julien Fausty, Karen Alvarado, Brayan Murgas, and Marc Bernacki. A 2D Front-Tracking Lagrangian Model for the Modeling of Anisotropic Grain Growth. July 2021. [Materials MDPI](https://www.mdpi.com/1996-1944/14/15/4219).
+
 * Brayan Murgas, Sebastian Florez, Nathalie Bozzolo, Julien Fausty, and Marc Bernacki. Comparative study and limits of different level-set formulations for the modeling of anisotropic grain growth. July 2021. [Materials MDPI](https://www.mdpi.com/1996-1944/14/14/3883).
 
 * Sebastian Florez, Julien Fausty, Karen Alvarado, Brayan Murgas, and Marc Bernacki. Parallelization of an efficient 2d-lagrangian model for massive multi-domain simulations. July 2021. [Modeling and Simulation in Materials Science and Engineering](https://doi.org/10.1088/1361-651x/ac0ae7). 
@@ -65,8 +69,4 @@ I appear as the first author when I have done the main work prior to writing and
 # Co-authors
 
 S. Florez, M. Bernacki, K. Alvarado, N. Bozzolo, J. Fausty. B. Flipon.
-
-Two articles in progress : 
-* Study of grain growth of 316l stainless steel: Comparison of ebsd data and numerical data using a finite element level set formulations with anisotropic grain boundary energy and heterogeneous mobiliy. 
-* Statistical behaviour of interfaces subjected to curvature flow and torque effects applied to microstructural evolutions.
 
