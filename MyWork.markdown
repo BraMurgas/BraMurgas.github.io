@@ -44,6 +44,8 @@ I appear as the first author when I have done the main work prior to writing and
 
 # Preprint 
 
+* Sebastian Florez, Karen Alvarado, Brayan Murgas, Nathalie Bozzolo, Dominique Chatain, Carl E. Krill, Mingyan Wang, Gregory S. Rohrer and Marc Bernacki. Statistical behaviour of interfaces subjected to curvature flow and torque effects applied to microstructural evolutions. January 2022. [ArXiv](https://arxiv.org/abs/2106.05605).
+
 * Sebastian Florez, Julien Fausty, Karen Alvarado, Brayan Murgas, and Marc Bernacki. A 2d fronttracking lagrangian model for the modeling of anisotropic grain growth. July 2021. [ArXiv](https://arxiv.org/abs/2106.04892v1).
 
 * Brayan Murgas, Sebastian Florez, Nathalie Bozzolo, Julien Fausty, and Marc Bernacki. Comparative study and limits of different level-set formulations for the modeling of anisotropic grain growth, June 2021. [ArXiv](https://arxiv.org/abs/2106.03565).
