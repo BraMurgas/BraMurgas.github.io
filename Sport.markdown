@@ -12,7 +12,7 @@ I'm a bike enthusiast. Here are some of the videos and pictures I've done while 
 
 # Times 
 
-In 2021 I participated in my first competitions, here are my times, they are average but this help me to keep track of my times:
+In 2021 I participated for the first time in some competitions, here are my times (they are average but this help me to keep track of them):
 
 * 233 km - 1719m D+. Long distance: Nice-Marseille (Demi bouillabaisse). France. 10/10/2020: 10h27m (Got lost). 25/04/2022: .
 
