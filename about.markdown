@@ -14,7 +14,7 @@ Office: Mines ParisTech. Cemef - Centre de Mise en Forme des Matériaux. 1 Rue C
 
 # Professional history
 
-* 2022 - present : Post Doc at Johns Hopkins University. Cold spray and additive manufacturing. Advisor: Somnath Ghosh.
+* 2022 - present : Post Doc at Johns Hopkins University, Whiting School of Engineering. [Computational Mechanics Research Laboratory](https://cmrl.jhu.edu/). Cold spray and additive manufacturing. Advisor: Somnath Ghosh.
 
 * 2018 - 2022 : PhD Student at [Mines ParisTech](http://www.mines-paristech.eu/). Cemef, Digimu Consortium: Towards a precise description of the grain boundary mobility and energy for their numerical integration in finite element modeling of recrystallization and grain growth mechanisms. Advisors: Marc Bernacki and Nathalie Bozzolo.
 
