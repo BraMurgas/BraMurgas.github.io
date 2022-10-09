@@ -16,19 +16,23 @@ Computational Mechanics, Computational Metallurgy, Finite Element Method, Finite
 
 * Cold Spray and Additive Manufacturing: Machine learning, crystal plasticity, crack propagation and fatigue considering the crystalline nature of materials.
 
-* Ongoing project : C++ Free library to model annealing phenomena using FFT based methods (Recrystallization, recovery, crystal plasticity, GB motion, etc.)
+* Ongoing project : C++ Free library to model annealing phenomena using FFT based methods and the Finite Element Method (Recrystallization, recovery, crystal plasticity, GB motion, etc.)
 
 # Seminars and Conference Talks
 
+2022
+
+* 10th International Conference on Multiscale Materials Modeling (MMM10). Baltimore, USA. October 2-7.
+
 2021
 
-* Eccomas Congress, Virtual Congress. January 11-15, 2021.
+* Eccomas Congress, Virtual Congress. January 11-15.
 
-* Les Maths en Scène. Le Monde miniature des cristaux. March 12, 2021.
+* Les Maths en Scène. Le Monde miniature des cristaux. March 12.
 
 2019
 
-* Métallurgie quel avenir. Nancy, France. May 2019. Accounting for grain boundary mobility heterogeneity.
+* Métallurgie quel avenir. Nancy, France. May. Accounting for grain boundary mobility heterogeneity.
 
 ## Awards
 
@@ -42,7 +46,15 @@ Computational Mechanics, Computational Metallurgy, Finite Element Method, Finite
 
 I appear as the first author when I have done the main work prior to writing and writing the article. As the co-author when I have helped with some data, analysis and writing sections of the article. If you have any question or want to discuss with me about any of the articles please send me an email.
 
+# Co-authors
+
+Thanks to all my colleagues:
+
+J. Stickel, S. Ghosh, S. Florez, M. Bernacki, K. Alvarado, N. Bozzolo, J. Fausty. B. Flipon.
+
 # Preprint 
+
+* Brayan Murgas, Bqptiste Flipon, Nathalie Bozzolo, Marc Bernacki. Level-Set Modeling of Grain Growth in 316L Stainless Steel under Different Assumptions Regarding Grain Boundary Properties. February 2022. [ArXiv](https://arxiv.org/abs/2202.04930).
 
 * Sebastian Florez, Karen Alvarado, Brayan Murgas, Nathalie Bozzolo, Dominique Chatain, Carl E. Krill, Mingyan Wang, Gregory S. Rohrer and Marc Bernacki. Statistical behaviour of interfaces subjected to curvature flow and torque effects applied to microstructural evolutions. January 2022. [ArXiv](https://arxiv.org/abs/2106.05605).
 
@@ -56,6 +68,8 @@ I appear as the first author when I have done the main work prior to writing and
 
 # Journals
 
+* Brayan Murgas, Bqptiste Flipon, Nathalie Bozzolo, Marc Bernacki. Level-Set Modeling of Grain Growth in 316L Stainless Steel under Different Assumptions Regarding Grain Boundary Properties. March 2022. [Materials MDPI](https://www.mdpi.com/1996-1944/15/7/2434).
+
 * Sebastian Florez, Karen Alvarado, Brayan Murgas, Nathalie Bozzolo, Dominique Chatain, Carl E. Krill, Mingyan Wang, Gregory S. Rohrer and Marc Bernacki. Statistical behaviour of interfaces subjected to curvature flow and torque effects applied to microstructural evolutions. January 2022. [Acta Materialia](https://www.sciencedirect.com/science/article/pii/S1359645421008387).
 
 * Sebastian Florez, Julien Fausty, Karen Alvarado, Brayan Murgas, and Marc Bernacki. A 2D Front-Tracking Lagrangian Model for the Modeling of Anisotropic Grain Growth. July 2021. [Materials MDPI](https://www.mdpi.com/1996-1944/14/15/4219).
@@ -67,8 +81,4 @@ I appear as the first author when I have done the main work prior to writing and
 * Julien Fausty, Brayan Murgas, Sebastian Florez, Nathalie Bozzolo, Marc Bernacki. A new analytical test case for anisotropic grain growth problems. May 2021. [Applied Mathematical Modelling](https://doi.org/10.1016/j.apm.2020.11.035).
 
 * Baptiste Flipon, Victor Grand, Brayan Murgas, A. Gaillac, Alexis Nicolaÿ, Nathalie Bozzolo, Marc Bernacki. Grain size characterization in metallic alloys using different microscopy and post-processing techniques. April 2021. [Materials Characterization](https://doi.org/10.1016/j.matchar.2021.110977).
-
-# Co-authors
-
-S. Florez, M. Bernacki, K. Alvarado, N. Bozzolo, J. Fausty. B. Flipon.
 
