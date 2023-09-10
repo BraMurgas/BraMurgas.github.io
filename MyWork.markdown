@@ -16,25 +16,31 @@ Computational Mechanics, Computational Metallurgy, Finite Element Method, Finite
 
 * Cold Spray and Additive Manufacturing: Machine learning, crystal plasticity, crack propagation and fatigue considering the crystalline nature of materials.
 
-* Ongoing project : C++ Free library to model annealing phenomena using FFT based methods and the Finite Element Method (Recrystallization, recovery, crystal plasticity, GB motion, etc.)
+* And this: 
 
-# Seminars and Conference Talks
+# Seminars and Conference Talk/Poster
+
+2023
+
+* 7th  World  Congress  on  Integrated  Computational  Materials  Engineering  -  ICME, TMS. A generative adversarial network for thecreation of complex 3d bimodal polycrystalline microstructures: Application to cold-spray Al7050 alloy. UCLA, Los Angeles, USA. May 21-25.
+
+* USACM  Workshop  on  Data-Driven  and  Computational  Modeling  of  Materials Across Scales. A generative adversarial network for thecreation of complex 3d bimodal polycrystalline microstructures: Application to cold-spray Al7050 alloy. UCLA, Los Angeles, USA. May 10-12. (Poster and presentation)
 
 2022
-
-* 10th International Conference on Multiscale Materials Modeling (MMM10). Baltimore, USA. October 2-7.
+* 10th International Conference on Multiscale Materials Modeling (MMM10). Multi-scale modeling platform for perfor-mance and failure analysis of cold spray formed materials. Baltimore, USA. October 2-7.
 
 2021
-
-* Eccomas Congress, Virtual Congress. January 11-15.
-
+* Eccomas Congress, Virtual Congress. Anisotropic grain  growth  modeling  using  a  level-set  finite  element  formulation. January 11-15.
 * Les Maths en Scène. Le Monde miniature des cristaux. March 12.
 
 2019
-
-* Métallurgie quel avenir. Nancy, France. May. Accounting for grain boundary mobility heterogeneity.
+* Métallurgie quel avenir. Accounting for grain boundary mobility heterogeneity. Nancy, France. May. (Poster)
 
 ## Awards
+
+* 1st place in poster contest. 7th World Congress on Integrated Computational Materials Engineering - ICME. June, 2023.
+
+* Excellence award from Université Côte d'Azur, Nice, France. January 13, 2021.
 
 * 1st place in the Arts and Science contest of the WCCM-ECCOMAS 2020 Junior Workshop according to the votes of the participants of the congress. January 13, 2021.
 
@@ -68,7 +74,7 @@ J. Stickel, S. Ghosh, S. Florez, M. Bernacki, K. Alvarado, N. Bozzolo, J. Fausty
 
 # Journals
 
-* Brayan Murgas, Bqptiste Flipon, Nathalie Bozzolo, Marc Bernacki. Level-Set Modeling of Grain Growth in 316L Stainless Steel under Different Assumptions Regarding Grain Boundary Properties. March 2022. [Materials MDPI](https://www.mdpi.com/1996-1944/15/7/2434).
+* Brayan Murgas, Baptiste Flipon, Nathalie Bozzolo, Marc Bernacki. Level-Set Modeling of Grain Growth in 316L Stainless Steel under Different Assumptions Regarding Grain Boundary Properties. March 2022. [Materials MDPI](https://www.mdpi.com/1996-1944/15/7/2434).
 
 * Sebastian Florez, Karen Alvarado, Brayan Murgas, Nathalie Bozzolo, Dominique Chatain, Carl E. Krill, Mingyan Wang, Gregory S. Rohrer and Marc Bernacki. Statistical behaviour of interfaces subjected to curvature flow and torque effects applied to microstructural evolutions. January 2022. [Acta Materialia](https://www.sciencedirect.com/science/article/pii/S1359645421008387).
 
