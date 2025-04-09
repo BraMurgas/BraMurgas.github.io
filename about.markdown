@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I'm a postdoctoral fellow in materials science and computational mechanics at [cmrl](https://cmrl.jhu.edu/). I am working in two projects focused on the Failure and Fatigue Analysis of Cold Sprayed and Additive Manufactured Materials. The main difficulties of this project are the generation of exotic synthetic microstructures produced during this new manufacturing process, and upscaling the mechanical response to macroscopic samples. 
+I'm a postdoctoral research associate in materials science and computational mechanics at [XCP-5](https://www.lanl.gov/engage/organizations/xcp/xcp-5). I am working in two projects focused on grain boundary-dislocation interactions. I am developing new models and formulations that consider grain boundary-dislocation interactions using Phase Field and Crystal Plasticity with Continuum Dislocation Transport.
 
 I did my PhD at [Cemef](https://www.cemef.mines-paristech.fr/en/homepage/) (Nice, France) in the MSR(Metallurgy, Structure and Reology)/MSM(Multiscale Modelling) group with the founding of an [ANR](https://anr.fr/fr/) industrial chair [Digimu](https://chaire-digimu.cemef.mines-paristech.fr/). My PhD project was the "Analysis and modelling of grain boundary mobility". My research aims to describe the parameters affecting grain boundary mobility, answer purely metallurgical questions and implement it in an in-house Finite Element library. Everything based on comparisons with experimental data.
 
@@ -12,11 +12,13 @@ Beside materials science I'm interested in  astronomy, open software, open scien
 
 # Contact
 
-Office: Johns Hopkins University. CMRL - Computational Mechanics Research Laboratory. 3rd floor, Latrobe Hall, 3400 N. Charles Street, Baltimore, MD 21218, USA.
+Office: Los Alamos National Laboratory. Los Alamos, NM, USA.
 
 # Professional history
 
-* 2022 - present : Post Doc at Johns Hopkins University, Whiting School of Engineering. [Computational Mechanics Research Laboratory](https://cmrl.jhu.edu/). Cold spray and additive manufacturing. Advisor: Somnath Ghosh.
+* 2024 - present : Post Doc at Los Alamos National Laboratory, X Computational Physics [Mechanics of Materials](https://www.lanl.gov/engage/organizations/xcp/xcp-5). Grain boundary-Dislocation interactions. Advisors: Abigail Hunter and Darby Luscher.
+
+* 2022 - 2023 : Post Doc at Johns Hopkins University, Whiting School of Engineering. [Computational Mechanics Research Laboratory](https://cmrl.jhu.edu/). Cold spray and additive manufacturing. Advisor: Somnath Ghosh.
 
 * 2018 - 2022 : PhD Student at [Mines ParisTech](http://www.mines-paristech.eu/). Cemef, Digimu Consortium: Towards a precise description of the grain boundary mobility and energy for their numerical integration in finite element modeling of recrystallization and grain growth mechanisms. Advisors: Marc Bernacki and Nathalie Bozzolo.
 

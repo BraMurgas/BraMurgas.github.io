@@ -20,14 +20,24 @@ Computational Mechanics, Computational Metallurgy, Finite Element Method, Finite
 
 # Seminars and Conference Talk/Poster
 
+2025
+
+* USNCCM18 Chicago, IL, USA (Upcoming)
+
+* ESMC Lyon, FR (Upcoming)
+
+* TMS 2025 Annual Meeting & Exhibition. Phase-field dislcoation dynamics formulation coupled with Fourier based micromechanics solver: Application to grain boundary-dislocation interactions. Las Vegas, NV, USA. March 23-27.
+
+* Moose International Workshop. A dislocation transport based crystal plasticity model to study structure-property relations in polycristalline materials. INL, Idaho Falls, ID, USA. March 10-12.
+
 2023
 
-* 7th  World  Congress  on  Integrated  Computational  Materials  Engineering  -  ICME, TMS. A generative adversarial network for thecreation of complex 3d bimodal polycrystalline microstructures: Application to cold-spray Al7050 alloy. UCLA, Los Angeles, USA. May 21-25.
+* 7th World Congress on Integrated Computational Materials Engineering - ICME, TMS. A generative adversarial network for thecreation of complex 3d bimodal polycrystalline microstructures: Application to cold-spray Al7050 alloy. UCLA, Los Angeles, USA. May 21-25.
 
-* USACM  Workshop  on  Data-Driven  and  Computational  Modeling  of  Materials Across Scales. A generative adversarial network for thecreation of complex 3d bimodal polycrystalline microstructures: Application to cold-spray Al7050 alloy. UCLA, Los Angeles, USA. May 10-12. (Poster and presentation)
+* USACM Workshop on Data-Driven and Computational Modeling of Materials Across Scales. A generative adversarial network for thecreation of complex 3d bimodal polycrystalline microstructures: Application to cold-spray Al7050 alloy. UCLA, Los Angeles, USA. May 10-12. (Poster and presentation)
 
 2022
-* 10th International Conference on Multiscale Materials Modeling (MMM10). Multi-scale modeling platform for perfor-mance and failure analysis of cold spray formed materials. Baltimore, USA. October 2-7.
+* 10th International Conference on Multiscale Materials Modeling (MMM10). Multi-scale modeling platform for perfor-mance and failure analysis of cold spray formed materials. Baltimore, MD, USA. October 2-7.
 
 2021
 * Eccomas Congress, Virtual Congress. Anisotropic grain  growth  modeling  using  a  level-set  finite  element  formulation. January 11-15.
@@ -73,6 +83,10 @@ J. Stickel, S. Ghosh, S. Florez, M. Bernacki, K. Alvarado, N. Bozzolo, J. Fausty
 * J. Fausty, B. Murgas, S. Florez, N. Bozzolo, M. Bernacki. A new level set-finite element formulation for anisotropic grain boundary migration. 2020. [ArXiv](https://arxiv.org/abs/2006.15531).
 
 # Journals
+
+* Brayan Murgas, Joshua Stickel, Somnath Ghosh. Modeling complex polycrystalline alloys using a Generative Adversarial Network enabled computational platform. November 2024. [Nature Communications](https://www.nature.com/articles/s41467-024-53865-3).
+
+* Brayan Murgas, Joshua Stickel, Somnath Ghosh. Generative adversarial network (GAN) enabled Statistically equivalent virtual microstructures (SEVM) for modeling cold spray formed bimodal polycrystals. February 2024. [npj Computational Materials](https://www.mdpi.com/1996-1944/15/7/2434).
 
 * Brayan Murgas, Baptiste Flipon, Nathalie Bozzolo, Marc Bernacki. Level-Set Modeling of Grain Growth in 316L Stainless Steel under Different Assumptions Regarding Grain Boundary Properties. March 2022. [Materials MDPI](https://www.mdpi.com/1996-1944/15/7/2434).
 
